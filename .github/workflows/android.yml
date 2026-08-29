@@ -1,4 +1,4 @@
-name: Build maintenance_3d_ai APK
+name: Build Putiz
 
 on:
   workflow_dispatch:
@@ -43,5 +43,5 @@ jobs:
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
-          name: maintenance_3d_ai-apk
+          name: Putiz-apk
           path: build/app/outputs/flutter-apk/app-release.apk
