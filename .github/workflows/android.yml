@@ -1,4 +1,4 @@
-name: Build putiz
+name: Build putiz 9
 
 on:
   workflow_dispatch:
