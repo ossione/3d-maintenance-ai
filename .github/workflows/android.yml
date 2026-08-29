@@ -1,4 +1,4 @@
-name: Build putiz 9
+name: Build putiz
 
 on:
   workflow_dispatch:
@@ -43,5 +43,5 @@ jobs:
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
-          name: putiz 9-apk
+          name: putiz-apk
           path: build/app/outputs/flutter-apk/app-release.apk
