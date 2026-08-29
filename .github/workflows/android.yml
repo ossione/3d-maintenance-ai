@@ -43,5 +43,5 @@ jobs:
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
-          name: 3d-maintenance-ai-apk
+          name: maintenance_3d_ai-apk
           path: build/app/outputs/flutter-apk/app-release.apk
