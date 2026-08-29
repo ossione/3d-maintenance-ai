@@ -1,4 +1,4 @@
-# Maintenance_3d_ AI — Diagnostic Engine MVP
+# putiz 9 — Diagnostic Engine MVP
 
 Primeiro fluxo funcional do aplicativo:
 Home → Novo Diagnóstico → perguntas → resultado preliminar.
