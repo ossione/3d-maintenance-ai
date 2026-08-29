@@ -1,4 +1,4 @@
-name: Build 3D Maintenance AI APK
+name: Build maintenance_3d_ai APK
 
 on:
   workflow_dispatch:
